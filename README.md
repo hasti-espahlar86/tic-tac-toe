@@ -1,47 +1,31 @@
-# Tic Tac Toe 🎮
+# ❌⭕ Tic-Tac-Toe — Python Console Game
 
-A clean and well-structured **console-based Tic Tac Toe game** implemented in Python.  
-This project focuses on correct game logic, clarity, and reliability.
-
----
-
-## 📖 Overview
-
-This is a classic **3×3 Tic Tac Toe (دوز)** game played in the terminal.  
-Two players alternate turns, placing `X` and `O` on the board until a winning condition is met or the game ends in a draw.
-
-The implementation emphasizes:
-- Correct rule enforcement
-- Clear separation of logic
-- Robust handling of user input
+Welcome to **Tic-Tac-Toe**, a clean and interactive Python console game!  
+Challenge yourself or a friend in this classic game and enjoy a simple yet fun coding experience.
 
 ---
 
-## ✨ Features
+## 🌟 Features
 
-- Two-player gameplay
-- Accurate win detection:
-  - Rows
-  - Columns
-  - Diagonals
-- Draw detection when the board is full
-- Input validation to prevent invalid or duplicate moves
-- Readable and maintainable Python code
+- 🎮 **Two-player gameplay:** Play against a friend on the same terminal  
+- 🖥 **Console-based Interface:** Simple and intuitive, no GUI required  
+- 🧩 **Clean & Readable Code:** Modular structure for easy understanding and extension  
+- ⏱ **Turn-based Logic:** Ensures fair play and proper game flow  
+- ♻️ **Replayable:** Reset and play multiple rounds easily  
 
 ---
 
 ## 🛠 Requirements
 
 - Python 3.x  
-- No external libraries required
+- Standard library only (no external dependencies)  
 
 ---
 
-## 🚀 Running the Game
-
-Execute the script from the project directory:
+## 🚀 How to Run
 
 ```bash
-python tic-tac-toe.py
-
+git clone https://github.com/hasti-espahlar86/tic-tac-toe.git
+cd tic-tac-toe
+python tic_tac_toe.py
 
